@@ -1,0 +1,20 @@
+{
+  "name": "university-lecturer-locator",
+  "version": "1.0.0",
+  "description": "University Lecturer Locator & Appointment Management System",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "start": "cd server && npm start",
+    "build:client": "cd client && npm run build",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": [
+    "university",
+    "lecturer-locator",
+    "appointments",
+    "campus-management"
+  ],
+  "author": "University Computing & Informatics Department",
+  "license": "ISC"
+}
